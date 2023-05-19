@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Prabhav49/Portfolio.git/static/css/main.2488fc10.css",
+    "main.js": "/Prabhav49/Portfolio.git/static/js/main.cca71908.js",
+    "static/media/grocery.png": "/Prabhav49/Portfolio.git/static/media/grocery.29f2a1c6264d30708145.png",
+    "static/media/postNow.png": "/Prabhav49/Portfolio.git/static/media/postNow.7444707c1037d56a528f.png",
+    "static/media/resume.pdf": "/Prabhav49/Portfolio.git/static/media/resume.c7fe48fa6912be5aa095.pdf",
+    "static/media/bankinngApp.png": "/Prabhav49/Portfolio.git/static/media/bankinngApp.3b6fc7d4c30c8fd1e2e4.png",
+    "static/media/sahyog.png": "/Prabhav49/Portfolio.git/static/media/sahyog.132dc1cfd277375ddd38.png",
+    "static/media/boy.png": "/Prabhav49/Portfolio.git/static/media/boy.3426e34168498a52df8c.png",
+    "static/media/glassesimoji.png": "/Prabhav49/Portfolio.git/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/aws.png": "/Prabhav49/Portfolio.git/static/media/aws.84d24e4e1708dc95aacf.png",
+    "static/media/jira.png": "/Prabhav49/Portfolio.git/static/media/jira.bfdaee442bc8319cfff3.png",
+    "static/media/azure.jpg": "/Prabhav49/Portfolio.git/static/media/azure.c1ad60903ce87e67b9ec.jpg",
+    "static/media/thumbup.png": "/Prabhav49/Portfolio.git/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Prabhav49/Portfolio.git/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/sketch.png": "/Prabhav49/Portfolio.git/static/media/sketch.4d648cde86bc5a01d4e5.png",
+    "static/media/heartemoji.png": "/Prabhav49/Portfolio.git/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/figma.png": "/Prabhav49/Portfolio.git/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/wave.png": "/Prabhav49/Portfolio.git/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Prabhav49/Portfolio.git/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Prabhav49/Portfolio.git/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Prabhav49/Portfolio.git/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Prabhav49/Portfolio.git/index.html",
+    "main.2488fc10.css.map": "/Prabhav49/Portfolio.git/static/css/main.2488fc10.css.map",
+    "main.cca71908.js.map": "/Prabhav49/Portfolio.git/static/js/main.cca71908.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2488fc10.css",
+    "static/js/main.cca71908.js"
+  ]
+}
